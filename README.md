@@ -2,7 +2,7 @@
 
 > Status do projeto: Concluído :white_check_mark:
 
-Simples projeto onde é criado um instrumento músical de uma interface digital focado no desenvolvimento do JavaScript.
+Simples projeto onde é criado um MIDI - Interface Digital do Instrumento Musical focando no desenvolvimento do JavaScript.
 
 ## Overview
 
